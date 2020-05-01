@@ -1,5 +1,5 @@
 
-public class SimpleDotCom {
+public class SimpleBattleship {
    int [] locationCells;
    int numOfHits = 0;
 
